@@ -1,1 +1,4 @@
 08/03/2020 : étape 0
+15/03/2020 : On a réussi à construire la base de données mais son remplissage nous a posé problème
+26/03/2020 : Par django on a peuplé la base de données mais on a rémarqué des incohérences en faisant quelques requêtes
+29/03/2020 : On a résolu les problèmes du 26 mars
