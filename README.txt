@@ -6,8 +6,6 @@ le type et le nombre de moteurs propulseurs de l'appareil,
 les conditions météo,
 le modèle ou constructeur de l'appareil ou encore le motif de déplacement. 
 Nous pourrons dans la mesure du possible lui proposer de reporter son voyage ou de changer de compagnie d'aviation.
-On a un dossier (lien du dossier : https://drive.google.com/drive/folders/18US6Thhfy2VsKz12p3wQDJZxkBvYAaFV?usp=sharing)
-dans lequel :
-- un fichier models.py qui décrit la structure de notre base de données
-- un fichier remplissage.py avec lequel on a peuplé nos tables
-- la base de données db.sqlite3
+Notre projet est fait quasi entièrement avec django 
+L'intégralite du projet se trouve dans ce lien https://drive.google.com/drive/folders/1KVnpK_5ZhQum526BHcRgt1VA4Ti2eEG3?usp=sharing
+Pour lancer l'application , il suffit de téléchager le dossier , se mettre dans ce repertoire et exécuter le fichier lancement.py qui se trouve directement dans le répertoire principal du dossier de projet 
